@@ -1,0 +1,10 @@
+/home/kostya/VSCode/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/home/kostya/VSCode/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/home/kostya/VSCode/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/home/kostya/VSCode/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/home/kostya/VSCode/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/home/kostya/VSCode/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/home/kostya/VSCode/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/home/kostya/VSCode/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/home/kostya/VSCode/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/home/kostya/VSCode/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
